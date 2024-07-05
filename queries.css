@@ -169,7 +169,7 @@
   [data-testid="Mytarget"] {
     height: 110vh;
     width: 82%;
-    margin-left: 5rem;
+    margin-left: 6rem;
     margin-right: 0rem;
   }
   [data-testid="li-footer"] {
@@ -198,6 +198,10 @@
   [data-testid="img"] {
     margin-left: 18rem;
     width: 32%;
+  }
+
+  [data-testid="Mytarget"] {
+    margin-left: 6rem;
   }
 }
 
