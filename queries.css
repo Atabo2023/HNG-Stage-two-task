@@ -24,6 +24,10 @@
     margin-left: 22rem;
   }
 
+  .container {
+    width: 100%;
+  }
+
   [data-testid="Mytarget"] {
     height: 47vh;
   }
@@ -56,6 +60,9 @@
 
   [data-testid="Mytarget"] {
     height: 69vh;
+  }
+  .container {
+    width: 100%;
   }
 
   [data-testid="li-footer"] {
@@ -98,17 +105,17 @@
 @media (max-width: 45em) {
   [data-testid="img"] {
     justify-content: center;
-    margin-left: 7rem;
-    width: 55%;
+    margin-left: 15rem;
+    width: 37%;
   }
 
   body {
     margin-right: 0;
-    width: 118%;
+    width: 188%;
   }
 
   [data-testid="text"] {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
   [data-testid="goal"] {
     margin-left: 5rem;
@@ -148,14 +155,14 @@
 @media (max-width: 45em) {
   [data-testid="img"] {
     justify-content: center;
-    margin-left: 7rem;
-    width: 55%;
+    margin-left: 15rem;
+    width: 37%;
   }
   [data-testid="goal"] {
-    margin-left: 5rem;
+    margin-left: 12rem;
   }
   [data-testid="Mytarget"] {
-    height: 117vh;
+    height: 77vh;
     width: 82%;
     margin-left: 4rem;
     margin-right: 0rem;
@@ -163,6 +170,13 @@
   [data-testid="li-footer"] {
     margin-left: 1rem;
     margin-right: 0rem;
+  }
+  .container {
+    width: 100%;
+  }
+  body {
+    margin-right: 0;
+    width: 188%;
   }
 
   [data-testid="footer"] {
