@@ -196,8 +196,8 @@
 
 @media (max-width: 40em) {
   [data-testid="img"] {
-    margin-left: 11rem;
-    width: 32%;
+    margin-left: 12rem;
+    width: 40%;
   }
 }
 
