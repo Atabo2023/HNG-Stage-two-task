@@ -175,7 +175,7 @@
     font-weight: 700;
   }
   [data-testid="goal"] {
-    margin-left: 11.5rem;
+    margin-left: 9.5rem;
     margin-top: 1rem;
   }
   [data-testid="Mytarget"] {
@@ -208,13 +208,13 @@
 
 @media (max-width: 40em) {
   [data-testid="img"] {
-    margin-left: 14.5rem;
+    margin-left: 15rem;
     width: 32%;
   }
 
   [data-testid="Mytarget"] {
     margin-left: 6rem;
-    height: 110vh;
+    height: 140vh;
   }
 }
 
