@@ -121,7 +121,7 @@
     margin-left: 5rem;
   }
   [data-testid="Mytarget"] {
-    height: 117vh;
+    height: 78vh;
     width: 64%;
   }
 
@@ -162,7 +162,7 @@
     margin-left: 12rem;
   }
   [data-testid="Mytarget"] {
-    height: 77vh;
+    height: 78vh;
     width: 82%;
     margin-left: 4rem;
     margin-right: 0rem;
