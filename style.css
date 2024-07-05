@@ -213,4 +213,5 @@ ul {
 [data-testid="footer-copy"] {
   padding: 3rem;
   text-decoration: none;
+  margin-left: 4rem;
 }
