@@ -137,6 +137,7 @@
   [data-testid="img"] {
     justify-content: center;
     margin-left: 20rem;
+    width: 50%;
   }
 
   [data-testid="Mytarget"] {
@@ -193,12 +194,12 @@
   }
 }
 
-/* @media (max-width: 40em) {
+@media (max-width: 40em) {
   [data-testid="img"] {
-    margin-left: 15rem;
-    width: 42%;
+    margin-left: 11rem;
+    width: 50%;
   }
-} */
+}
 
 /* media (max-width: 51em) {
     .card {
