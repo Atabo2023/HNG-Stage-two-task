@@ -208,8 +208,8 @@
 
 @media (max-width: 40em) {
   [data-testid="img"] {
-    margin-left: 17.5rem;
-    width: 32%;
+    margin-left: 10.5rem;
+    width: 53%;
   }
 
   [data-testid="Mytarget"] {

@@ -125,7 +125,7 @@ a {
   border: none;
 }
 
-[data-testid="time-date"] {
+[data-testid="currentDay"] {
   display: flex;
   flex-direction: column;
   justify-content: center;
