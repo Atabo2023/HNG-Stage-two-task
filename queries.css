@@ -163,7 +163,7 @@
     width: 30%;
   }
   [data-testid="goal"] {
-    margin-left: 9rem;
+    margin-left: 10rem;
     margin-top: 1rem;
   }
   [data-testid="Mytarget"] {
@@ -196,7 +196,7 @@
 
 @media (max-width: 40em) {
   [data-testid="img"] {
-    margin-left: 15rem;
+    margin-left: 17rem;
     width: 32%;
   }
 }
