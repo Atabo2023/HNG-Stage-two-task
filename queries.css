@@ -158,8 +158,8 @@
 @media (max-width: 45em) {
   [data-testid="img"] {
     justify-content: center;
-    margin-left: 26rem;
-    width: 29%;
+    margin-left: 15rem;
+    width: 43%;
   }
   [data-testid="goal"] {
     margin-left: 13rem;
