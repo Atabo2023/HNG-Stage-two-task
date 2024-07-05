@@ -162,13 +162,13 @@
     width: 29%;
   }
   [data-testid="goal"] {
-    margin-left: 23rem;
+    margin-left: 12rem;
     margin-top: 1rem;
   }
   [data-testid="Mytarget"] {
-    height: 90vh;
+    height: 120vh;
     width: 82%;
-    margin-left: 7rem;
+    margin-left: 6rem;
     margin-right: 0rem;
   }
   [data-testid="li-footer"] {
@@ -195,8 +195,8 @@
 
 @media (max-width: 40em) {
   [data-testid="img"] {
-    margin-left: 26rem;
-    width: 29%;
+    margin-left: 15rem;
+    width: 44%;
   }
 }
 
