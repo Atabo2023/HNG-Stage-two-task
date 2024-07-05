@@ -196,12 +196,13 @@
 
 @media (max-width: 40em) {
   [data-testid="img"] {
-    margin-left: 13rem;
+    margin-left: 13.5rem;
     width: 32%;
   }
 
   [data-testid="Mytarget"] {
     margin-left: 6rem;
+    height: 143vh;
   }
 }
 
