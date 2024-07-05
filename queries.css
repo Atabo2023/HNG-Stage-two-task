@@ -98,7 +98,7 @@
 @media (max-width: 45em) {
   [data-testid="img"] {
     justify-content: center;
-    margin-left: 9rem;
+    margin-left: 7rem;
     width: 55%;
   }
 
@@ -148,7 +148,7 @@
 @media (max-width: 45em) {
   [data-testid="img"] {
     justify-content: center;
-    margin-left: 9rem;
+    margin-left: 7rem;
     width: 55%;
   }
   [data-testid="goal"] {
