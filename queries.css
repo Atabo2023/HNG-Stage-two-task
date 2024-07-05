@@ -41,7 +41,8 @@
   }
   [data-testid="content"] {
     font-size: 1.9rem;
-    padding: 1rem;
+    padding: 1.5rem;
+    padding-top: 0;
   }
 }
 
@@ -106,8 +107,8 @@
 @media (max-width: 45em) {
   [data-testid="img"] {
     justify-content: center;
-    margin-left: 13rem;
-    width: 45%;
+    margin-left: 18rem;
+    width: 38%;
   }
 
   body {
@@ -122,8 +123,9 @@
     margin-left: 5rem;
   }
   [data-testid="Mytarget"] {
-    height: 78vh;
-    width: 64%;
+    height: 90vh;
+    width: 82%;
+    margin-left: 8rem;
   }
 
   [data-testid="li-footer"] {
@@ -156,21 +158,21 @@
 @media (max-width: 45em) {
   [data-testid="img"] {
     justify-content: center;
-    margin-left: 13rem;
-    width: 45%;
+    margin-left: 26rem;
+    width: 29%;
   }
   [data-testid="goal"] {
-    margin-left: 12rem;
+    margin-left: 23rem;
     margin-top: 1rem;
   }
   [data-testid="Mytarget"] {
-    height: 117vh;
+    height: 90vh;
     width: 82%;
-    margin-left: 4rem;
+    margin-left: 7rem;
     margin-right: 0rem;
   }
   [data-testid="li-footer"] {
-    margin-left: 1rem;
+    margin-left: 14rem;
     margin-right: 0rem;
   }
   .container {
@@ -187,7 +189,14 @@
   }
 
   [data-testid="li-footer"] {
-    margin-left: 1rem;
+    margin-left: 14rem;
+  }
+}
+
+@media (max-width: 40em) {
+  [data-testid="img"] {
+    margin-left: 26rem;
+    width: 29%;
   }
 }
 
