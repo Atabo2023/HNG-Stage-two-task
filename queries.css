@@ -147,6 +147,11 @@
     /* margin-right: 5rem; */
   }
 
+  [data-testid="Mytarget"] {
+    margin-left: 6rem;
+    height: 148vh;
+  }
+
   [data-testid="footer"] {
     margin: 0;
     height: 0;
@@ -196,13 +201,13 @@
 
 @media (max-width: 40em) {
   [data-testid="img"] {
-    margin-left: 14.3rem;
+    margin-left: 14.5rem;
     width: 32%;
   }
 
   [data-testid="Mytarget"] {
     margin-left: 6rem;
-    height: 176vh;
+    height: 190vh;
   }
 }
 
