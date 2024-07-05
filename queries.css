@@ -196,7 +196,7 @@
 
 @media (max-width: 40em) {
   [data-testid="img"] {
-    margin-left: 13.8rem;
+    margin-left: 14rem;
     width: 32%;
   }
 
