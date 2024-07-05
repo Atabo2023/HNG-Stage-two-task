@@ -1,0 +1,192 @@
+@media (max-width: 95em) {
+  [data-testid="img"] {
+    justify-content: center;
+    margin-left: 31rem;
+  }
+
+  [data-testid="Mytarget"] {
+    height: 25rem;
+    justify-content: center;
+  }
+
+  [data-testid="goal"] {
+    margin-left: 22rem;
+  }
+}
+
+@media (max-width: 85em) {
+  [data-testid="img"] {
+    justify-content: center;
+    margin-left: 20rem;
+  }
+
+  [data-testid="goal"] {
+    margin-left: 22rem;
+  }
+
+  [data-testid="Mytarget"] {
+    height: 47vh;
+  }
+
+  [data-testid="img"] {
+    justify-content: center;
+    margin-left: 31rem;
+  }
+  [data-testid="hero"] {
+    height: 91vh;
+  }
+  [data-testid="content"] {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 75em) {
+  [data-testid="text"] {
+    font-size: 3rem;
+  }
+
+  [data-testid="img"] {
+    justify-content: center;
+    margin-left: 27rem;
+  }
+
+  [data-testid="goal"] {
+    margin-left: 15rem;
+  }
+
+  [data-testid="Mytarget"] {
+    height: 69vh;
+  }
+
+  [data-testid="li-footer"] {
+    margin-left: 22rem;
+  }
+}
+
+@media (max-width: 65em) {
+  /* [data-testid="img"] {
+    justify-content: center;
+    margin-left: 20rem;
+  } */
+}
+
+@media (max-width: 55em) {
+  [data-testid="img"] {
+    justify-content: center;
+    margin-left: 20rem;
+  }
+
+  [data-testid="li-footer"] {
+    margin-left: 7rem;
+  }
+
+  [data-testid="goal"] {
+    margin-left: 8rem;
+  }
+  [data-testid="Mytarget"] {
+    height: 87vh;
+    width: 64%;
+  }
+
+  [data-testid="img"] {
+    justify-content: center;
+    margin-left: 16rem;
+    width: 38%;
+  }
+}
+
+@media (max-width: 45em) {
+  [data-testid="img"] {
+    justify-content: center;
+    margin-left: 9rem;
+    width: 55%;
+  }
+
+  body {
+    margin-right: 0;
+    width: 118%;
+  }
+
+  [data-testid="text"] {
+    font-size: 2rem;
+  }
+  [data-testid="goal"] {
+    margin-left: 6rem;
+  }
+  [data-testid="Mytarget"] {
+    height: 101vh;
+    width: 64%;
+  }
+
+  [data-testid="li-footer"] {
+    margin-left: 1rem;
+  }
+}
+
+@media (max-width: 35em) {
+  [data-testid="img"] {
+    justify-content: center;
+    margin-left: 20rem;
+  }
+
+  [data-testid="Mytarget"] {
+    height: 103vh;
+    width: 82%;
+    margin-left: 7rem;
+    /* margin-right: 5rem; */
+  }
+
+  [data-testid="footer"] {
+    margin: 0;
+    height: 0;
+  }
+  [data-testid="main-nav-list"] {
+    gap: 83px;
+  }
+}
+
+@media (max-width: 45em) {
+  [data-testid="img"] {
+    justify-content: center;
+    margin-left: 9rem;
+    width: 55%;
+  }
+  [data-testid="goal"] {
+    margin-left: 9rem;
+  }
+  [data-testid="Mytarget"] {
+    height: 103vh;
+    width: 82%;
+    margin-left: 4rem;
+    margin-right: 0rem;
+  }
+  [data-testid="li-footer"] {
+    margin-left: 1rem;
+    margin-right: 0rem;
+  }
+
+  [data-testid="footer"] {
+    display: flex;
+    /* flex-direction: column; */
+  }
+
+  [data-testid="li-footer"] {
+    margin-left: 1rem;
+  }
+}
+
+/* media (max-width: 51em) {
+    .card {
+      position: sticky;
+    }
+  
+    .btn-mobile-nav {
+      display: block;
+    }
+  }
+  
+  @media (max-width: 40em) {
+    .contact {
+      position: sticky;
+    }
+  } */
