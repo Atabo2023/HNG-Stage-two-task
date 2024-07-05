@@ -40,7 +40,8 @@
     height: 91vh;
   }
   [data-testid="content"] {
-    font-size: 1.5rem;
+    font-size: 1.9rem;
+    padding: 1rem;
   }
 }
 
@@ -105,8 +106,8 @@
 @media (max-width: 45em) {
   [data-testid="img"] {
     justify-content: center;
-    margin-left: 15rem;
-    width: 37%;
+    margin-left: 13rem;
+    width: 45%;
   }
 
   body {
@@ -155,14 +156,15 @@
 @media (max-width: 45em) {
   [data-testid="img"] {
     justify-content: center;
-    margin-left: 15rem;
-    width: 37%;
+    margin-left: 13rem;
+    width: 45%;
   }
   [data-testid="goal"] {
     margin-left: 12rem;
+    margin-top: 1rem;
   }
   [data-testid="Mytarget"] {
-    height: 78vh;
+    height: 117vh;
     width: 82%;
     margin-left: 4rem;
     margin-right: 0rem;
