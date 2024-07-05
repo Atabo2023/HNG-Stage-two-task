@@ -111,10 +111,10 @@
     font-size: 2rem;
   }
   [data-testid="goal"] {
-    margin-left: 6rem;
+    margin-left: 5rem;
   }
   [data-testid="Mytarget"] {
-    height: 101vh;
+    height: 117vh;
     width: 64%;
   }
 
@@ -152,10 +152,10 @@
     width: 55%;
   }
   [data-testid="goal"] {
-    margin-left: 9rem;
+    margin-left: 5rem;
   }
   [data-testid="Mytarget"] {
-    height: 103vh;
+    height: 117vh;
     width: 82%;
     margin-left: 4rem;
     margin-right: 0rem;
