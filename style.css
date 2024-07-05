@@ -5,6 +5,10 @@
   font-family: "Rubik", sans-serif;
 }
 
+.container {
+  width: 100%;
+}
+
 [data-testid="main-nav-list"] {
   display: flex;
   /* font-weight: 400; */
