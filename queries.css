@@ -167,6 +167,13 @@
     margin-left: 23rem;
     width: 30%;
   }
+
+  .slack {
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+  }
   [data-testid="goal"] {
     margin-left: 11.5rem;
     margin-top: 1rem;
@@ -201,13 +208,13 @@
 
 @media (max-width: 40em) {
   [data-testid="img"] {
-    margin-left: 14.5rem;
+    margin-left: 17.5rem;
     width: 32%;
   }
 
   [data-testid="Mytarget"] {
     margin-left: 6rem;
-    height: 138vh;
+    height: 110vh;
   }
 }
 
