@@ -215,3 +215,10 @@ ul {
   text-decoration: none;
   margin-left: 4rem;
 }
+
+[data-testid="SlackEmail"] {
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.5rem;
+}

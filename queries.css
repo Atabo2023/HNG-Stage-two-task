@@ -171,8 +171,8 @@
   .slack {
     margin-top: 1rem;
     text-align: center;
-    font-size: 3rem;
-    font-weight: 700;
+    font-size: 1rem;
+    font-weight: 500;
   }
   [data-testid="goal"] {
     margin-left: 10.5rem;
