@@ -169,7 +169,7 @@
   }
 
   .slack {
-    margin-top: 1rem;
+    margin-top: 0.5rem;
     text-align: center;
     font-size: 1rem;
     font-weight: 500;
@@ -208,8 +208,8 @@
 
 @media (max-width: 40em) {
   [data-testid="img"] {
-    margin-left: 15.5rem;
-    width: 32%;
+    margin-left: 14rem;
+    width: 34%;
   }
 
   [data-testid="Mytarget"] {
